@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  grpc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-21T13:16:07.074555116Z"
+    description: A Helm chart for Kubernetes
+    digest: adf42307178fdf019496438c301c8dc27855bee27128871c24f4d32823afc71d
+    name: grpc
+    sources:
+    - https://github.com/zcpua/helm-charts
+    type: application
+    urls:
+    - https://github.com/zcpua/helm-template/releases/download/grpc-0.1.1/grpc-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-06-21T13:16:07.074575465Z"
